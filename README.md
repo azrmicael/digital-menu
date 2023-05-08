@@ -8,3 +8,5 @@ You can use this page:
 * Share on Whatsapp, email;
 * Like your website;
 * In Face, Insta, Google Ads campaigns.
+
+Acess link: https://azrmicael.github.io/digital-menu/
